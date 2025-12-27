@@ -22,6 +22,6 @@ El objetivo principal es identificar los patrones que determinan el éxito de un
 
 ---
 ## 📂 Estructura del Repositorio
-* `proyecto_ice_2013_2016.ipynb`: Notebook con el análisis completo.
+* `proyecto_ice.ipynb`: Notebook con el análisis completo.
 * `Datasets/`: Carpeta con el archivo `games.csv` (Datos históricos hasta 2016).
 * `requirements.txt`: Dependencias del proyecto.
